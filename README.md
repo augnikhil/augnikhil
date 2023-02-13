@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=augnikhil&label=Profile%20views&color=0e75b6&style=flat" alt="augnikhil" /> </p>
 
-- 💬 Ask me about **Data Structure and Algorithm , Node.js, React.js**
+- 💬 Ask me about **Data Structure and Algorithm , Node.js, Express.js**
 
 - 📫 How to reach me **aug18nikhil@gmail.com**
 
