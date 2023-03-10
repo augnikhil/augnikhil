@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **aug18nikhil@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/dell/Documents/NIKHIL_2.pdf](file:///C:/Users/dell/Documents/NIKHIL_2.pdf)
+- 📄 Know about my experiences file:///C:/Users/dell/Documents/Resume_Nikhil.pdf](file:///C:/Users/dell/Documents/Resume_Nikhil.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
