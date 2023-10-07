@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://augnikhil.github.io/Portfolio_NikhilMishra/](https://augnikhil.github.io/Portfolio_NikhilMishra/)
 
-- 💬 Ask me about **Data Structure and Algorithm , Node.js, React.js**
+- 💬 Ask me about **Data Structure and Algorithm , React.js, Node.js **
 
 - 📫 How to reach me **aug18nikhil@gmail.com**
 
